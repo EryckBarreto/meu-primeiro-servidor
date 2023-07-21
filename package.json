@@ -2,7 +2,7 @@
   "name": "meu-primeiro-servidor",
   "version": "1.0.0",
   "description": "primeiro servidor proposto em aula pelo curso da Cubos Academy",
-  "main": "index.js", 
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {}
 }
